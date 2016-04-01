@@ -1,8 +1,9 @@
 {
   "meta": {
-    "username": "perthmastersswimming",
-    "repositoryName":"perthmastersblog.github.io",
-    "branch":"master"
+    "username":"Perthmastersswimming",
+    "repositoryName":"hubpress.io",
+    "branch":"master"},
+    "site":{"url":"http://perthmastersswimming.github.io/hubpress.io"
   },
   "theme": {
     "name": "Casper"
