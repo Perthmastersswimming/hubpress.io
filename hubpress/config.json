@@ -1,1 +1,11 @@
-{"meta":{"username":"Perthmastersswimming","repositoryName":"hubpress.io","branch":"gh-pages","cname":"http://perthmasters.co.uk","delay":"400"},"site":{"title":"Perth Masters Swimming","description":"Perth Masters Swimming Club Blog","postsPerPage":"","disqus":"perthmastersswimming","url":"http://perthmasters.co.uk"},"socialnetwork":{"email":"perthmastersswimming@hotmail.com","twitter":"https://twitter.com/MastersPerth/"},"theme":{"name":"Casper","url":"http://perthmastersswimming.github.io/hubpress.io/themes/Casper"}}
+{
+  "meta": {
+    "username": "Perthmastersswimming",
+    "repositoryName": "hubpress.io",
+    "branch": "gh-pages",
+    "cname":"http://perthmasters.co.uk"
+  },
+  "theme": {
+    "name": "Casper"
+  }
+}
