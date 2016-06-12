@@ -3,7 +3,7 @@
 
 
 
-Name | Stroke | Time | Date: 28/04/16 & 02/06/2016
+*Name | Stroke | Time | Date: 28/04/16 & 02/06/2016*
 
  Derick Wilkie | 100 Free | 1.23.06
 
@@ -33,7 +33,9 @@ Name | Stroke | Time | Date: 28/04/16 & 02/06/2016
 
 :hardbreaks:
 
-Times above are best time from either of the two dates. 
+*Times above are the best from either of the two dates.* 
 
+
+Since Stormtrooper Was not very good at his normal job he thought he would try his hand at swimming...
 
 image::http://perthmasters.co.uk/gallery/album/Swimming%20.jpg[]
